@@ -10,6 +10,8 @@ published: false
 AWSは、Lambdaのコンテナイメージを作成してpuppeteerを動かす手順を示します。
 
 ## AWSでPuppeteerを動かす
+コードはこちら
+https://github.com/NoriyukiMatsumoto/zenn/tree/main/articles/puppeteer-from-aws/puppeteer-aws-sample
 ### 「AWS SAM CLI」をインストール
 https://docs.aws.amazon.com/ja_jp/serverless-application-model/latest/developerguide/serverless-sam-cli-install-mac.html
 
