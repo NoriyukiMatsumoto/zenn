@@ -3,7 +3,7 @@ title: "AWS Lambdaコンテナでpuppeteerを動かす"
 emoji: "📘"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["puppeteer","AWS"]
-published: false
+published: true
 ---
 
 ## 概要
