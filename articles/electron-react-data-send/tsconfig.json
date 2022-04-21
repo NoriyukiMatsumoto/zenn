@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "jsx": "react",
+    "strict": true,
+    "resolveJsonModule":true
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "CommonJS"
+    }
+  },
+}
