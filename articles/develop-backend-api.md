@@ -3,7 +3,7 @@ title: "Backend APIの作成をエンジニアに依頼するTips"
 emoji: "📘"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["開発","backend","openapi"]
-published: false
+published: true
 ---
 
 ## 概要
