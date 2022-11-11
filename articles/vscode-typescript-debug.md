@@ -1,5 +1,5 @@
 ---
-title: "Typescriptのデバッグ方法"
+title: "VSCodeでTypescriptのデバッグを体験してみる"
 emoji: "📘"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["typescript","debug","vscode"]
