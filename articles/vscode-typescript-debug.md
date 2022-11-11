@@ -6,7 +6,12 @@ topics: ["typescript","debug","vscode"]
 published: false
 ---
 
-# Typescriptのデバッグ方法
+# 概要
+Typescriptのデバッグを体験する。
+コードは[こちら](https://github.com/NoriyukiMatsumoto/zenn/tree/main/articles/vscode-typescript-debug)
+
+各種ファイルの役割等を調べたので共有。
+
 ## `.vscode/launch.json`を作成
 
 ```json
@@ -115,5 +120,10 @@ console.log({ test });
 
 ## デバッグテスト
 ### ブレークポイントを設置する
-
+- 行の左側をクリックするとブレークポイントを設置できる
+![](/images/vscode-typescript-debug/breakpoint.png)
 ### デバッグの実行
+- VSCodeの左側の三角と虫のアイコンをクリック
+- 実行とデバッグより「Launch TypeScript」を選択して開始する
+- ブレークポイントで止まる
+![](/images/vscode-typescript-debug/breakpoint.png)
