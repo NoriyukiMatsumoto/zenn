@@ -3,7 +3,7 @@ title: "Typescriptのデバッグ方法"
 emoji: "📘"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["typescript","debug","vscode"]
-published: false
+published: true
 ---
 
 # 概要
@@ -122,8 +122,9 @@ console.log({ test });
 ### ブレークポイントを設置する
 - 行の左側をクリックするとブレークポイントを設置できる
 ![](/images/vscode-typescript-debug/breakpoint.png)
+
 ### デバッグの実行
 - VSCodeの左側の三角と虫のアイコンをクリック
 - 実行とデバッグより「Launch TypeScript」を選択して開始する
 - ブレークポイントで止まる
-![](/images/vscode-typescript-debug/breakpoint.png)
+![](/images/vscode-typescript-debug/stop.png)
